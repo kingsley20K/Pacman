@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="applet">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Minim-main/Minim-main/examples/Synthesis/dampExample/applet" />
+      <root url="file://$USER_HOME$/Downloads/Minim-main/Minim-main/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Minim-main/Minim-main/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

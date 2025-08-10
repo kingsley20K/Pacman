@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pacmangame"},{"l":"pacmangame.controller"},{"l":"pacmangame.main"},{"l":"pacmangame.model"},{"l":"pacmangame.view"}];updateSearchResults();
