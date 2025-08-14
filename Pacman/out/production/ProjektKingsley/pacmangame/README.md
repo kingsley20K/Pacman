@@ -41,7 +41,7 @@ Der Spieler steuert Pacman, eine runde Figur, die durch ein Labyrinth voller Pun
 
 ## screenshots
 StartSeite
-![Capture1.PNG](..%2F..%2F..%2F..%2FDownloads%2FCapture1.PNG)
+<img src=".\Pacman\images\Start.jpeg"/>
 Spiel:
 - blaue sind Ghost
 - rot ist die Leben

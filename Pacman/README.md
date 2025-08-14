@@ -41,14 +41,15 @@ Der Spieler steuert Pacman, eine runde Figur, die durch ein Labyrinth voller Pun
 
 ## screenshots
 StartSeite
-![Capture1.PNG](..%2F..%2F..%2F..%2FDownloads%2FCapture1.PNG)
+![img.png](img.png)
 Spiel:
+![img_1.png](img_1.png)
 - blaue sind Ghost
 - rot ist die Leben
 - green ist der Score
 - yellow ist der Spieler
 - und die kleine Poke-ball sind das wu fressendes Essen
-![Capture2.PNG](..%2F..%2F..%2F..%2FDownloads%2FCapture2.PNG)
+  ![img_2.png](img_2.png)
 ## Beispiel in der JShell
 
 Um das Modell in der JShell zu testen, können Sie folgende Schritte befolgen:
